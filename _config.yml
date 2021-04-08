@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "이은주"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "assets/images/1-1.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "활동결과물 보관"
   location         : "대한민국, 서울"
   email            : "21-20925@hafs.hs.kr"
