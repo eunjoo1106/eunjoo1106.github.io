@@ -77,7 +77,7 @@ int main(void)
 
 ### 04.30분 전
 
-![minutes](/assets/images/if.s.jpg)
+![minutes](/assets/images/if.4.jpg)
 
 ~~~c
 #include <stdio.h>
