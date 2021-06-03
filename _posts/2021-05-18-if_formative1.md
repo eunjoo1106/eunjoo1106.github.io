@@ -26,7 +26,7 @@ return 0;
 }
 ~~~ 
 
-### 02.세개의 터널 통과하기
+### 02. 세개의 터널 통과하기
 
 ![tunnel](/assets/images/if.2.jpg) 
 
@@ -75,7 +75,7 @@ int main(void)
 }
 ~~~ 
 
-### 04.30분 전
+### 04. 30분 전
 
 ![minutes](/assets/images/if.4.jpg)
 
